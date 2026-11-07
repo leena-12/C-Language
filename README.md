@@ -47,33 +47,11 @@ Topics I plan to explore include:
 - A code editor, such as Visual Studio Code
 - A terminal to compile and run programs
 
-### Compile and Run
-
-Open a terminal in the folder containing the program you want to run.
-
-Replace `program.c` with the actual filename.
-
-Compile:
-
-```bash
-gcc program.c -o program
-```
-
-Run on Windows PowerShell:
-
-```powershell
-.\program.exe
-```
-
-Run on Linux or macOS:
-
-```bash
-./program
-```
 
 ## Progress
 
 - Chapter 1: Added
+- Chapter 2: Added
 - Additional chapters: To be added as I continue learning
 
 ## Notes
