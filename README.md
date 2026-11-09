@@ -1,4 +1,4 @@
-# C Language Learning Journey
+#C Language Learning Journey
 
 A collection of C programs and practice exercises from my journey learning C programming.
 
