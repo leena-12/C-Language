@@ -39,7 +39,7 @@ Topics I plan to explore include:
 - File handling
 - Dynamic memory allocation
 
-## Getting Started
+##Getting Started
 
 ### Requirements
 
