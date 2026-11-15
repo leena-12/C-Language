@@ -10,6 +10,10 @@ This repository is organized chapter by chapter to keep my code structured and m
 C Language/
 ├── chapter-1/
 │   └── C programs and exercises
+├── chapter-2/
+│   └── If else conditional statements , logical statements.
+├── chapter-3/
+│   └── Loops
 └── README.md
 ```
 
@@ -52,6 +56,7 @@ Topics I plan to explore include:
 
 - Chapter 1: Added
 - Chapter 2: Added
+- Chapter 3: Added
 - Additional chapters: To be added as I continue learning
 
 ## Notes
