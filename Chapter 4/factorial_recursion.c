@@ -9,7 +9,7 @@ int main() {
     scanf("%d", &num);
 
     if (num < 0) {
-        printf("Factorial is not defined for negative numbers.\n");
+        printf("Factorial is not defined for the negative numbers.\n");
     } else {
         result = factorial(num);
         printf("Factorial of %d is: %d\n", num, result);
