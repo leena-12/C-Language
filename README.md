@@ -14,6 +14,10 @@ C Language/
 │   └── If else conditional statements , logical statements.
 ├── chapter-3/
 │   └── Loops
+├── chapter-4/
+│   └── Functions and Recursion
+├── chapter-5/
+│   └── Pointers
 └── README.md
 ```
 
@@ -57,6 +61,8 @@ Topics I plan to explore include:
 - Chapter 1: Added
 - Chapter 2: Added
 - Chapter 3: Added
+- Chapter 4: Added
+- Chapter 5: Added
 - Additional chapters: To be added as I continue learning
 
 ## Notes
