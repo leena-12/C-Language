@@ -18,6 +18,8 @@ C Language/
 │   └── Functions and Recursion
 ├── chapter-5/
 │   └── Pointers
+├── chapter-6/
+│   └── Arrays (Reversing,  sizes, Average)
 └── README.md
 ```
 
@@ -63,6 +65,7 @@ Topics I plan to explore include:
 - Chapter 3: Added
 - Chapter 4: Added
 - Chapter 5: Added
+- Chapter 6: Added
 - Additional chapters: To be added as I continue learning
 
 ## Notes
